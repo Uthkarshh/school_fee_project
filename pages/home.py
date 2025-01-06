@@ -179,8 +179,8 @@ def update_graphs(selected_year, selected_classes):
     # Fetch data
     data = fetch_data(
         dbname="school_fee_db",
-        user="uthkarsh",
-        password="Ruthwik081@"
+        user="username",
+        password="password@"
     )
     
     if data is None:
